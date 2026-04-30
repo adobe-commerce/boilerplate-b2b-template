@@ -2,7 +2,7 @@
  * ADOBE CONFIDENTIAL
  * __________________
  *
- *  Copyright 2025 Adobe
+ *  Copyright 2026 Adobe
  *  All Rights Reserved.
  *
  * NOTICE:  All information contained herein is, and remains
@@ -14,5 +14,5 @@
  * is strictly forbidden unless prior written permission is obtained
  * from Adobe.
  *******************************************************************/
-export declare const GET_RECOMMENDATIONS_QUERY: string;
-//# sourceMappingURL=GetRecommendationsQuery.d.ts.map
+export declare const MOVE_ITEMS_BETWEEN_REQUISITION_LISTS_MUTATION: string;
+//# sourceMappingURL=moveItemsBetweenRequisitionLists.d.ts.map
